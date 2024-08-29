@@ -1,4 +1,4 @@
-export const baseUrl = "task-manager-app-backend-six.vercel.app"
+export const baseUrl = "http://localhost:5000"
 
 
 //http://localhost:5000
